@@ -1,0 +1,7 @@
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\bin\Debug\Peli.exe.config
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\bin\Debug\Peli.exe
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\bin\Debug\Peli.pdb
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\obj\Debug\Peli.csproj.CoreCompileInputs.cache
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\obj\Debug\Peli.exe
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\obj\Debug\Peli.pdb
+C:\Users\s3ruel00\OneDrive - OSAO\C# ohjelmointi\Peli\Peli\obj\Debug\Peli.csproj.AssemblyReference.cache
